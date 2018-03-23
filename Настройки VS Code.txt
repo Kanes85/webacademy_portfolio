@@ -1,0 +1,8 @@
+    "files.autoSave": "afterDelay",
+    "workbench.statusBar.feedback.visible": false,
+    "window.menuBarVisibility": "toggle",
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false,
+    "editor.smoothScrolling": false,
+	
