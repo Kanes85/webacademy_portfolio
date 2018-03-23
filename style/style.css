@@ -1,2 +1,23 @@
 /* font-family: 'Merriweather', serif; */
-/* font-family: 'PT Sans Caption', sans-serif; */
+
+html {
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+
+.header {
+  background-color: #343c4e;
+  background-image: url('../image/bg/bg-header.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; /*изображение пропорционально растягивается и занимает весь блок внутри которого находиться*/
+  height: 100vh;
+
+  color: #ffffff;
+  text-align: center;
+
+  display: flex;
+  
+}
