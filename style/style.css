@@ -123,3 +123,66 @@ html, body {
 .portfolio-item {
   margin-bottom: 20px;
 }
+
+/* --------------------- FOOTER --------------------------------- */
+
+.footer {
+	background-color: #061634;
+	color: #6479a2;
+	padding-top: 90px;
+	padding-bottom: 190px;
+}
+
+.footer p {
+	margin-top: 0;
+	margin-bottom: 15px;
+}
+
+p.footer_name {
+	font-size: 28px;
+	margin-bottom: 10px;
+	line-height: normal;
+	font-family: 'Merriweather', serif;
+}
+
+.footer_social {
+	color: #ffffff;
+}
+
+.footer_social-icon {
+	/* color: #ffffff; */
+	font-size: 32px;
+}
+
+.footer_social-icon a {
+	color: #ffffff;
+	text-decoration: none;
+	margin-right: 30px;
+}
+
+.footer_social-icon a:last-child {
+	margin-right: 0;
+}
+
+.footer_social-icon a:hover {
+	color: #ffe400;
+}
+
+.button {
+	display: inline-block;
+	border: 2px solid #ffffff;
+	border-radius: 50px;
+	padding: 8px 23px 8px 23px;
+	margin-bottom: 13px;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1.6px;
+}
+
+.button:hover {
+	color: #061634;
+	background-color: #ffffff;
+}
+
